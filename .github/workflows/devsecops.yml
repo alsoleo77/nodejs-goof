@@ -3,7 +3,7 @@ name: DevSecOps
 on: 
   push:
     branches:
-      - 'soleo'
+      - 'magno'
 
 jobs:
   zap_scan:
